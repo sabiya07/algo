@@ -59,9 +59,44 @@
 
 //Write a program to find the maximum number in an array using function
 
-let Array=[12,90,40,2,3,999]
-function maximum(array){
-  for (i=0;i<=array.length;i++){
+// let Array=[12,90,40,2,3,999]
+// function maximum(array){
+//   for (i=0;i<=array.length;i++){
     
-  }
-}
+//   }
+// }
+
+//------------------------------------------//
+// var i=0
+// for(i=1;i<=100;i++){
+// if(i%3==0){
+//   console.log("fizz")
+// }
+// else if(i%5==0){
+//   console.log("buzz")
+// }}
+
+//------------------------------------------//
+
+//) Write a program for swapping of two arrays
+
+// a=[1,2,3,5,4,7,8];
+// (a[1],a[2]=a[2],a[1])
+// console.log(a)
+
+//---------------------------------------//
+//) ) Write a program to find area and circumference of circle
+
+// function circlearea(r){
+//   console.log(Math.PI*r*r)
+// }
+// circlearea(4)
+
+// function circumference(r){
+//   console.log(Math.PI*2*r)
+// }
+// circumference(4)
+
+//----------------------------------------//
+
+
