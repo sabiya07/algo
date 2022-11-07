@@ -99,4 +99,68 @@
 
 //----------------------------------------//
 
+//Write a program to find Median of the given Array?
+
+
+
+//Write a program to find the highest and the lowest number in array
+// a=[1,5,8,9,4,0,30]
+//  smallest= a[0]
+//   largest=a[0]
+// for(var i=0;i<a.length;i++){
+//     if (a[i]>largest){
+//          largest=a[i]
+//     }else if (a[i]<smallest){
+//         smallest =a[i]
+//     }
+// }
+
+// console.log(largest)
+// console.log(smallest)
+//--------------------------------------------------//
+//Write a program to find Mean of given Array Elements?
+// a=[1,2,3,4,5]
+// sum=0
+// for (i=0;i<a.length;i++){
+//     sum= sum + a[i]
+// }
+// console.log(sum/a.length)
+//-------------------------------------------//
+// Write a program to find whether given number is an Armstrong number or not? ** (Narcissistic
+
+
+//number or Pluperfect digital invariant (PPDI) or a Plus perfect number)
+
+//Write a program to find whether given number is an Perfect number or not
+// Write a program to check whether given character is vowel or consonant
+
+// x="e"
+// if(x=="a"||x=="e"||x=="i"||x=="o"||x=="u"){
+// return ("x is vowel")
+// }else if ("x is a consonant")
+
+// console.log(x)
+//-------------------------------------------------------------//
+// Write a program to find the largest number among three numbers
+// function largest(x,y,z){
+// if(x==y==z){
+//             return ("all are equal")
+//         }else if(x>y,z){
+//             return ("x is greater than y,z")
+//         }else if(x<y,z){
+//             return ("x is less than y,z")
+//         }
+    
+//     }
+//     console.log(largest(20,3,4))
+//-----------------------------------------------------------//
+// Write a program to find the roots of a quadratic equation
+function roots()
+
+
+// Write a program to Check Whether the given year is a leap year or not
+// Write a program to check whether a number is a positive number or negative number?
+// Write a program to Program to calculate the Combinations and Permutations!
+//Combination means way of selecting a things or particular item into group or sets.
+
 
