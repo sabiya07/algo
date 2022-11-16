@@ -155,12 +155,52 @@
 //     console.log(largest(20,3,4))
 //-----------------------------------------------------------//
 // Write a program to find the roots of a quadratic equation
-function roots()
+function roots(){
+
+}
 
 
 // Write a program to Check Whether the given year is a leap year or not
+// function leapyear(){
+
+
 // Write a program to check whether a number is a positive number or negative number?
-// Write a program to Program to calculate the Combinations and Permutations!
-//Combination means way of selecting a things or particular item into group or sets.
+// function number(i){
+//     if (i >0){
+//         console.log("it is positive")
+//     }
+//     else if(i<0){
+//         console.log("it is negative")
+//     }
+// }
+
+// number(-30)
+//-----------------------------------------------------------------------------------//
+// Write a program to Program to calculate the Combinations and Permutations?
+//Combination means way of selecting a things or particular item into group or set?
+//Write a program to find power of a number using recursion
+//a=base and b=exponent
+// function power(a,b){
+//     if (b ==1){
+//         return a
+//     }else if (b == 0) {
+//         return 1;
+//     }else {
+//         return a*power(a,b-1)
+//     }
+// }
+// console.log(power(2,1))
+//----------------------------------------------------------------------------//
+//Write a program check whether given character is an alphabet or not
+
+// function alphabet(a){
+
+//     return (/[a-zA-Z]/).test(a)
+// }
+// console.log("b")
+//-------------------------------------------------------------------------//
+//Write a program to remove duplicate element in an array
+
+
 
 
