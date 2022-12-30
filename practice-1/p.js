@@ -766,11 +766,23 @@
 // ABC
 // ABCD
 // ABCDE
+//----------------------------------------------------------------//
+//Write a Program to add all Elements in Matrix
 
+// function primenumbers(){
 
-
-
-
+//     let n = readlineSync.questionInt("ENTER NUMBER TO FIND PRIME  : ");
+//         console.log(`entered number is ${n} \n`);
+//     if(n==1){
+//         console.log(`${n} is neither prime nor composite number `)
+//     }
+//     for(let i=2;i<=n;i++){
+//         if((n%i)==0){
+//          console.log(`${i} is not a prime number `)
+//         }
+//         else  console.log(`${i} is a prime number `)
+// }
+// }
 
 
 
