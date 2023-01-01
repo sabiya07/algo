@@ -769,23 +769,20 @@
 //----------------------------------------------------------------//
 //Write a Program to add all Elements in Matrix
 
-// function primenumbers(){
+//Write a program to find the Sum of Array Elements.
 
-//     let n = readlineSync.questionInt("ENTER NUMBER TO FIND PRIME  : ");
-//         console.log(`entered number is ${n} \n`);
-//     if(n==1){
-//         console.log(`${n} is neither prime nor composite number `)
-//     }
-//     for(let i=2;i<=n;i++){
-//         if((n%i)==0){
-//          console.log(`${i} is not a prime number `)
-//         }
-//         else  console.log(`${i} is a prime number `)
-// }
-// }
+function sum(array){
+sum=0
+for(let i=0 ; i<=array.length;i++);{
+    sum+=array[i]
+    console.log (sum)
+}
+}console.log([1,2,3,4,5])
 
-
-
+//------------------------------------------------
+// Write a program for swapping of two arrays
+let arr1=[1,2,3,4,5]
+let arr2=[2,5,4,5,6]
 
 
 
